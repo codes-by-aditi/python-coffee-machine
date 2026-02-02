@@ -21,4 +21,5 @@ and prepares drinks based on user input.
 
 ## How to Run
 ```bash
-python main.py
+python coffee_machine.py
+
